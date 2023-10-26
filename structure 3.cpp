@@ -1,3 +1,4 @@
+/* accept structure student(sno,sname,per) and display student detail and dispay above 70% student */
 #include<stdio.h>
 struct stud
 {
