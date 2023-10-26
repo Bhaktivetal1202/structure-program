@@ -1,3 +1,4 @@
+/* accept stucture student(sno,sname,per) and accept student name to search and dislpay student rno and per */
 #include<stdio.h>
 #include<string.h>
 struct student
