@@ -1,4 +1,4 @@
-/* accept stucture student(sno,sname,per) and accept student name to search and dislpay student rno and per */
+/* accept stucture student(sno,sname,per) and accept student roo number to search and dislpay student rno and per */
 #include<stdio.h>
 int main()
 {
