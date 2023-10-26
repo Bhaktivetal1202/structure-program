@@ -1,5 +1,5 @@
 /* accept stucture student(sno,sname,per) and accept student
-roll number to search and dislpay student rno and per */
+roll number to search and dislpay student name and per */
 #include<stdio.h>
 int main()
 {
