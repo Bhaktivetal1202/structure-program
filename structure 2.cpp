@@ -1,3 +1,4 @@
+/* accept structure student(sno,sname,per) and display alphabetical student name */
 #include<stdio.h>
 #include<string.h>
 struct stud
