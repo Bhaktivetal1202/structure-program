@@ -1,3 +1,4 @@
+/* accept structure emp(eno,ename,sal) and display emp whose sal greater than 1000 */
 #include<stdio.h>
 struct emp
 {
