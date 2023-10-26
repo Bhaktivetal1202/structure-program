@@ -1,3 +1,4 @@
+/* accept structure emp(eno,ename,sal) and display maximun salary emp detail */
 #include<stdio.h>
 struct emp
 {
