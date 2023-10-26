@@ -1,3 +1,5 @@
+/* accept structure emp(eno,ename,sal) and accept eno to serach and diaply all emp
+details */
 #include<stdio.h>
 #include<string.h>
 struct emp
