@@ -1,3 +1,4 @@
+/* accept structure book(bno,bname,rate,total) and accept book qty and display total */
 #include<stdio.h>
 struct book
 {
